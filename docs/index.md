@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.png" alt="Rachel Ayuma" class="profile-photo">
   <h1>[Rachel Ayuma]</h1>
-  <p><strong>[Geomatics Engineer & Geospatial Information Systems Analyst]</strong></p>
-  <p><em>[Connecting Spatial Data, Technology & Intelligent Solutions | GIS • Remote Sensing • Surveying| ]</em></p>
+  <p><strong>[Geomatics Engineer & GIS Analyst]</strong></p>
+  <p><em>[Connecting Spatial Data,Technology & Intelligent Solutions | GIS • Remote Sensing • Surveying]</em></p>
 </div>
 
 ---
@@ -31,10 +31,6 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
-
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am a Geomatics Engineering and GIS professional with a background in remote sensing, surveying, and UAV drone data collection and processing. I work on capturing, processing, and analyzing spatial data from aerial and geospatial sources to generate actionable insights using GIS, remote sensing platforms, and modern geospatial tools. I am passionate about applying geospatial technologies to real-world challenges in infrastructure development, agriculture, environmental monitoring, and spatial planning. I am currently seeking opportunities in geospatial analysis, surveying, or remote sensing within infrastructure, environmental, or consulting projects.
 

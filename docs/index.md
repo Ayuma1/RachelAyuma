@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>[Rachel Ayuma]</h1>
+  <p><strong>[Geomatics Engineer & Geospatial Information Systems Analyst]</strong></p>
+  <p><em>[Connecting Spatial Data, Technology & Intelligent Solutions | GIS • Remote Sensing • Surveying| ]</em></p>
 </div>
 
 ---
@@ -36,11 +36,7 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a Geomatics Engineering and GIS professional with a background in remote sensing, surveying, and UAV drone data collection and processing. I work on capturing, processing, and analyzing spatial data from aerial and geospatial sources to generate actionable insights using GIS, remote sensing platforms, and modern geospatial tools. I am passionate about applying geospatial technologies to real-world challenges in infrastructure development, agriculture, environmental monitoring, and spatial planning. I am currently seeking opportunities in geospatial analysis, surveying, or remote sensing within infrastructure, environmental, or consulting projects.
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/RACHEL AYUMA_CV.pdf){ .md-button }
 
 
 ---
@@ -118,5 +114,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://ayuma1.github.io/RachelAyuma/]){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/rachel-ayuma/]){ .md-button }

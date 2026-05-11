@@ -11,6 +11,12 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Add or remove certifications
 -->
 
+---
+hide:
+  - toc
+  - navigation
+---
+
 # Experience & Education
 
 ## Work Experience
@@ -19,23 +25,34 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Maps Validation Specialist — Uber
+*January 2026 – Present | Remote*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Perform quality control and validation of Points of Interest (POI) data for accuracy, completeness, and reliability on mapping platforms.
+- Verify POI attributes including coordinates, addresses, and business status using authoritative geospatial sources.
+- Meet defined accuracy and productivity targets independently in a structured remote workflow.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Engineering Surveying Intern — Remcosult Ltd
+*May 2024 – July 2024 | Nairobi, Kenya*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Conducted engineering surveys for major infrastructure projects including Ngong Road and Dagoretti-Riruta Road.
+- Performed static GNSS surveys for high-precision control point establishment.
+- Processed survey data using ArcMap and represented the company at KENHA tender meetings.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Land Surveying Intern — Geopas Licensed Land Surveyors
+*May 2023 – July 2023 | Nairobi, Kenya*
+
+- Conducted boundary and fixed boundary land surveys for property demarcation and legal documentation.
+- Operated Total Station and GPS equipment for precise boundary measurements.
+- Prepared technical documentation and mutation forms for property transfers.
 
 </div>
 
@@ -45,22 +62,15 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Bachelor of Science in Geomatics Engineering and Geospatial Information Systems
+**Jomo Kenyatta University of Agriculture and Technology** | *December 2025*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+Relevant coursework: Remote Sensing, GIS, Land Survey, Engineering Survey, Cartography, Photogrammetry, Spatial Database Management, and Programming.
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+- KCAA Remote Pilot License (RPL) — Geoid Technologies Drone Academy, 2025
+- Spatial Data Science — ESRI MOOC, 2025
+- Project Management — Coursera

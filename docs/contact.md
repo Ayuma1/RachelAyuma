@@ -22,7 +22,7 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | (mailto:ayuma4917@gmail.com) |
+| :material-email: **Email** | (ayuma4917@gmail.com) |
 | :fontawesome-brands-github: **GitHub** |(https://ayuma1.github.io/RachelAyuma/]) |
 | :fontawesome-brands-linkedin: **LinkedIn** |(https://www.linkedin.com/in/rachel-ayuma/) |
 | :material-school: **ResearchGate** | (https://www.researchgate.net/profile/Rachel-Ayuma?ev=hdr_xprf) |

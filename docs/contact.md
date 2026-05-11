@@ -22,10 +22,10 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:ayuma4917@gmail.com) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://ayuma1.github.io/RachelAyuma/]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://www.linkedin.com/in/rachel-ayuma/) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/Rachel-Ayuma?ev=hdr_xprf) |
+| :material-email: **Email** | (mailto:ayuma4917@gmail.com) |
+| :fontawesome-brands-github: **GitHub** |(https://ayuma1.github.io/RachelAyuma/]) |
+| :fontawesome-brands-linkedin: **LinkedIn** |(https://www.linkedin.com/in/rachel-ayuma/) |
+| :material-school: **ResearchGate** | (https://www.researchgate.net/profile/Rachel-Ayuma?ev=hdr_xprf) |
 
 ---
 

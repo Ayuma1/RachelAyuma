@@ -1,9 +1,4 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
+
 CHECKLIST FOR THIS PAGE:
 - [ ] Replace each [YOUR ...] placeholder with your actual information
 - [ ] Add or remove job entries as needed (copy the format of an existing entry)

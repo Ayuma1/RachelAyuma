@@ -1,17 +1,3 @@
-
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
-
----
-hide:
-  - toc
-  - navigation
----
-
 # Experience & Education
 
 ## Work Experience

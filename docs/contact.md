@@ -21,10 +21,10 @@ Feel free to reach out through any of the channels below.
 ---
 
 | | |
-|---|---|
-| :material-email: **Email** |ayuma4917@gmail.com|
-| :fontawesome-brands-github: **GitHub** |ayuma1.github.io/RachelAyuma |
-| :fontawesome-brands-linkedin: **LinkedIn** |linkedin.com/in/rachel-ayuma |
+| --- | --- |
+| :material-email: **Email** | [ayuma4917@gmail.com](mailto:ayuma4917@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/Ayuma1](https://github.com/Ayuma1) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/rachel-ayuma](https://www.linkedin.com/in/rachel-ayuma/) |
 
 ---
 

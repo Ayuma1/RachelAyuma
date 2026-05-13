@@ -146,3 +146,19 @@
     margin-top: 0.3rem;
     margin-bottom: 0.3rem;
 }
+
+/* Hero section on the Home page */
+.hero {
+  text-align: center;
+  padding: 1rem 1rem 1.25rem 1rem;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(232,244,248,0.82) 0%,
+      rgba(240,247,255,0.82) 50%,
+      rgba(232,240,254,0.82) 100%
+    ),
+    url('../images/hero-image.png') center / cover no-repeat;
+
+  border-radius: 8px;
+}

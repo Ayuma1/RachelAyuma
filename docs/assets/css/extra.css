@@ -112,3 +112,37 @@
   border-radius: 4px;
   margin-bottom: 0.75rem;
 }
+
+/* ===== HOMEPAGE SPACING FIX ===== */
+
+.about-section {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.about-text {
+    flex: 2;
+}
+
+.about-image {
+    flex: 1;
+}
+
+.about-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Reduce spacing between headings and text */
+.md-content h2 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.md-content p {
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+}

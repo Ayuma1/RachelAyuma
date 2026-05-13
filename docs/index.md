@@ -109,5 +109,5 @@ I am a Geomatics Engineering and GIS professional with a background in remote se
 
 ## Connect
 
-[GitHub](https://ayuma1.github.io/RachelAyuma/]){ .md-button }
-[LinkedIn](https://www.linkedin.com/in/rachel-ayuma/]){ .md-button }
+[GitHub](https://github.com/Ayuma1){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/rachel-ayuma/){ .md-button }

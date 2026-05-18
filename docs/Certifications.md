@@ -9,4 +9,5 @@ This certification strengthened my skills in applying spatial data science techn
 
 ---
 
-<img src="assets/images/certifications.png" alt="Esri Spatial Data Science Certification" width="900">
+![Certifications image](../assets/images/certifications.png)
+>

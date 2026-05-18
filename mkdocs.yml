@@ -90,3 +90,13 @@ nav:
   - Experience: experience.md
   - Certifications: Certifications.md
   - Contact: contact.md
+
+extra_javascript:
+  - assets/js/new-tab.js
+  docs/assets/js/new-tab.js
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a[href^='http']").forEach(link => {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+    });
+});

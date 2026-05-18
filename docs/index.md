@@ -43,9 +43,7 @@ I am a Geomatics Engineering and GIS professional with a background in remote se
 
 ---
 
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary target="_blank" rel="noopener" }
-
-[Download CV :material-download:](assets/RACHEL AYUMA_CV.pdf){ .md-button target="_blank" rel="noopener" }
+[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary target="_blank" rel="noopener" }[Download CV :material-download:](assets/RACHEL AYUMA_CV.pdf){ .md-button target="_blank" rel="noopener" }
 
 
 ---
@@ -110,6 +108,4 @@ I am a Geomatics Engineering and GIS professional with a background in remote se
 
 ## Connect
 
-[GitHub](https://github.com/Ayuma1){ .md-button target="_blank" rel="noopener" }
-
-[LinkedIn](https://www.linkedin.com/in/rachel-ayuma/){ .md-button target="_blank" rel="noopener" }
+[GitHub](https://github.com/Ayuma1){ .md-button target="_blank" rel="noopener" }[LinkedIn](https://www.linkedin.com/in/rachel-ayuma/){ .md-button target="_blank" rel="noopener" }
